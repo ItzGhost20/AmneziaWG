@@ -2,7 +2,7 @@
 
 ابزاری ساده و تحت وب برای تولید و شخصی‌سازی کانفیگ‌های AmneziaWG با استفاده از آی‌پی‌های تمیز کلودفلر.
 
-🔗 **[ورود به برنامه (Live Demo)](https://itzghost20.github.io/AmneziaWg/)**
+🔗 **[ورود به برنامه (Live Demo)](https://itzGhost20.github.io/AmneziaWg/)**
 
 ---
 
